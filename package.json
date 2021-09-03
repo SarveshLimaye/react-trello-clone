@@ -3,9 +3,9 @@
     "version": "0.0.1",
     "private": true,
     "dependencies": {
-        "antd": "^3.11.0",
+        "antd": "^4.16.13",
         "react": "^17.0.0",
-        "react-dnd": "^5.0.0",
+        "react-dnd": "^14.0.3",
         "react-dnd-html5-backend": "^5.0.1",
         "react-dom": "^17.0.0",
         "react-router-dom": "^5.2.1",
